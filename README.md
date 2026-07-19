@@ -1,0 +1,2 @@
+# SolarNova-Wireless-Network-Generation-Using-LoRa-powered-by-Self-Cleaning-Solar-Panel
+SolarNova is a long-range wireless communication network that operates entirely without internet dependency, using LoRa technology on ESP32 + SX1276 modules. It features multi-hop message relaying, GPS-based location tracking, emergency alert broadcasting, and solar-powered nodes for continuous off-grid operation 
